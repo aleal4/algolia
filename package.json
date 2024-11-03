@@ -2,9 +2,12 @@
   "name": "instantsearch-app",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://aleal4.github.io/algolia",
   "scripts": {
     "build": "parcel build index.html",
-    "start": "parcel index.html"
+    "start": "parcel index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "algoliasearch": "4",
