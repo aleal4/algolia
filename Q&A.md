@@ -48,21 +48,13 @@ Matt
 
 Hi Matt,
 
-I hope you're doing well! Thank you for sharing your feedback; it’s incredibly valuable for our ongoing improvements. I understand how frustrating it can be when changes affect your workflow, and I’ll definitely pass your thoughts along to our product team.
+Thank you for your feedback regarding the new dashboard design. We appreciate your honesty, as it helps us improve the user experience.
 
-In the meantime, I’d like to suggest a couple of potential solutions. If you're working with a single index over an extended period, consider bookmarking it for quick access. This way, you'll only need two clicks to clear or delete that index.
+We understand that the recent changes, particularly around clearing and deleting indexes, may have added extra steps to your workflow. The redesign aimed to enhance navigation and accessibility for all users, including those who may not be as technical. However, we recognize that this may have inadvertently made some tasks more cumbersome for experienced users like yourself.
 
-![Indices Screenshot](indices.png)
+Your input is valuable, and we will take it into consideration as we continue to refine the dashboard. If you have any specific suggestions on how we can make these processes more efficient, please feel free to share.
 
-Additionally, if you want your index to be regularly rebuilt with the latest dataset, take advantage of the built-in Connectors functionality in the dashboard. For example, I recently set up an index connected to a remote JSON file that updates every hour. Here’s a screenshot showing how to navigate this feature:
-
-![New Connector Screenshot](newconnector.png)
-
-If these options don’t meet your needs right now, I can help you write a script that utilizes the API to delete an index or clear its records at the push of a button.
-
-[Delete Indices Documentation](https://www.algolia.com/doc/guides/sending-and-managing-data/manage-indices-and-apps/manage-indices/how-to/delete-indices/?client=javascript/)
-
-Thank you again for your feedback; it’s crucial in helping us enhance our platform. If there's anything else I can assist you with regarding these solutions, please let me know!
+Thanks again for reaching out!
 
 Best regards,
 
