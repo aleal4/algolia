@@ -18,8 +18,8 @@ import type { Hit } from 'instantsearch.js';
 import './App.css';
 
 const searchClient = algoliasearch(
-   'SPHFJBEO0O',
-   '34f8abf0bd70fec2b8fc0ebe9d58d587'
+   process.env.REACT_APP_ALGOLIA_APP_ID,
+   process.env.REACT_APP_ALGOLIA_API_KEY
 );
 
 export function App() {
