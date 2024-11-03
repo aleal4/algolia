@@ -10,10 +10,10 @@ Quick Eats is an innovative application designed for busy professionals seeking 
 To achieve this, we focused on optimizing the app's search functionality by ranking recipes based on servings and ratings. By utilizing numeric data already present in our dataset, we ensured that users could easily filter and sort recipes according to their specific needs. This approach streamlined the user experience and improved overall satisfaction, allowing users to quickly identify the most suitable recipes for their circumstances.
 
 
-# Feedback for Algolia
+## Feedback for Algolia
 Documentation Clarity: Although the documentation was generally helpful, clearer examples of advanced search configurations would facilitate quicker implementation and troubleshooting.
 
 Data Cleanup Functionality: A more integrated data cleanup functionality would be advantageous. This feature could help ensure that the dataset remains accurate and up-to-date, improving the quality of search results and user experience.
 
-# Conclusion
+## Conclusion
 Quick Eats has successfully met its objectives of providing a valuable resource for busy professionals. With continued enhancements based on user feedback and Algolia's capabilities, we anticipate further growth and engagement within our user base. Thank you for your interest in Quick Eats!
