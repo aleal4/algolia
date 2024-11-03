@@ -17,7 +17,6 @@ Hi George,
 
 Absolutely! Here’s a more colorful explanation using analogies.
 
-Definitions
 **Records:** Think of records as individual books in a library. Each book contains specific information (like a story or data) that can be checked out and read. Just like each book has its own title and author, each record has its own unique data.
 
 **Indexing:** Imagine indexing as creating a catalog for that library. Instead of searching through every book to find what you need, the catalog organizes the books by title, author, or genre. This way, you can quickly locate a book without sifting through the entire collection. Indexing does the same for data, making it easy to find relevant information quickly.
