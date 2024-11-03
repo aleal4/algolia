@@ -28,8 +28,7 @@ Thanks again for your excellent questions! Below, I’ve included some links for
 If you’d like more information or would prefer a walkthrough of these concepts in Algolia, feel free to reach out! I’d be happy to schedule a Zoom call.
 
 Best regards,
-
-Augusto Leal 
+Augusto Leal
 Solutions Engineer  
 
 [Custom Ranking Guide](https://www.algolia.com/doc/guides/managing-results/must-do/custom-ranking/)  
@@ -69,8 +68,7 @@ If these options don’t meet your needs right now, I can help you write a scrip
 Thank you again for your feedback; it’s crucial in helping us enhance our platform. If there's anything else I can assist you with regarding these solutions, please let me know!
 
 Best regards,
-
-Augusto Leal  
+Augusto Leal
 Solutions Engineer  
 
 ---
