@@ -29,6 +29,7 @@ Examples of Custom Ranking Attributes:
 
 I hope this make things clearer! Let me know if you have any more questions.
 
+Cheers,
 Augusto Leal | Solutions Engineer
 
 ---
@@ -56,8 +57,7 @@ Your input is valuable, and we will take it into consideration as we continue to
 
 Thanks again for reaching out!
 
-Best regards,
-
+Regards,
 Augusto Leal | Solutions Engineer  
 
 ---
@@ -77,26 +77,18 @@ Leo
 
 Hi Leo,
 
-Thanks for reaching out! The complexity of implementation can vary, but it can often be quite straightforward—sometimes just requiring a few clicks and importing some predefined libraries.
+Integrating Algolia into your website is a manageable process, though it does require some development work. Here’s a high-level overview of what to expect:
 
-I recommend starting with this quick 1-minute video that outlines how simple implementation can be in just three steps:
+1. Set Clear Goals: Start by defining what you want to achieve with the integration. This could include improving search speed, relevance, or user experience.
+2. Prepare Your Data: Structure your data into records that Algolia can index. This often involves converting your existing data into a compatible format.
+3. Send Data to Algolia: Use Algolia's API or dashboard to upload your records. You can send data in batches for efficiency.
+4. Configure Search Settings: Customize how your search works by setting ranking criteria, filters, and other parameters that align with your goals.
+5. Implement the Frontend: Integrate Algolia’s search UI components into your website to create a seamless user experience.
+6. Testing and Optimization: After integration, test the search functionality thoroughly and make adjustments based on user feedback and performance metrics.
 
-[Quick Implementation Video](https://www.youtube.com/watch?v=yA4KISBv_88/)
-
-Algolia offers integrations with over 40 popular web and mobile technologies:
-
-[Algolia Integrations](https://www.algolia.com/developers/integrations/)
-
-We also provide InstantSearch libraries that come with ready-made UI components for various frameworks including vanilla JavaScript, React, Vue, Angular, Android, and iOS.
-
-If your integration is more complex than that, I'm here to help make the process as smooth as possible. Could you share what your current tech stack looks like? This way, I can tailor my suggestions specifically for your setup.
-
-Alternatively, if you'd prefer real-time discussion, feel free to book some time on my calendar:
-
-[Schedule a Meeting](http://calendly.com/insertmylinkhere/)
+It’s generally straightforward with proper planning and execution. I'm more than happy to help, would you like to discuss over a call?
 
 Looking forward to hearing from you!
 
-Best regards,
-
+Regards,
 Augusto Leal | Solutions Engineer  
