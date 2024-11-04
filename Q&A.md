@@ -21,11 +21,11 @@ Absolutely! Here’s a more colorful explanation using analogies.
 
 **Indexing:** Imagine indexing as creating a catalog for that library. Instead of searching through every book to find what you need, the catalog organizes the books by title, author, or genre. This way, you can quickly locate a book without sifting through the entire collection. Indexing does the same for data, making it easy to find relevant information quickly.
 
-Examples of Custom Ranking Attributes: 
-**Sales Rank:** Prioritizes items based on how well they sell.
-**Stock Levels:** Ranks items based on availability.
-**Ratings:** Uses customer ratings to influence visibility.
-**Boolean Attributes:** Such as whether an item is on sale or offers free shipping.
+Examples of Custom Ranking Attributes:<br/>
+**Sales Rank:** Prioritizes items based on how well they sell.<br/>
+**Stock Levels:** Ranks items based on availability.<br/>
+**Ratings:** Uses customer ratings to influence visibility.<br/>
+**Boolean Attributes:** Such as whether an item is on sale or offers free shipping.<br/>
 
 I hope this makes things clearer! Feel free to let me know if you have any more questions.
 
