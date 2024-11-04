@@ -27,9 +27,9 @@ Examples of Custom Ranking Attributes:
 **Ratings:** Uses customer ratings to influence visibility.
 **Boolean Attributes:** Such as whether an item is on sale or offers free shipping.
 
-I hope this make things clearer! Let me know if you have any more questions.
+I hope this makes things clearer! Feel free to let me know if you have any more questions.
 
-Cheers,
+Cheers,<br/>
 Augusto Leal | Solutions Engineer
 
 ---
@@ -53,11 +53,11 @@ Thank you for your feedback regarding the new dashboard design. We appreciate yo
 
 We understand that the recent changes, particularly around clearing and deleting indexes, may have added extra steps to your workflow. The redesign aimed to enhance navigation and accessibility for all users, including those who may not be as technical. However, we recognize that this may have inadvertently made some tasks more cumbersome for experienced users like yourself.
 
-Your input is valuable, and we will take it into consideration as we continue to refine the dashboard. If you have any specific suggestions on how we can make these processes more efficient, please feel free to share.
+Your input is valuable, and we will consider it as we continue to refine the dashboard. Please don't hesitate to share if you have any specific suggestions on how we can make these processes more efficient.
 
 Thanks again for reaching out!
 
-Regards,
+Regards,<br/>
 Augusto Leal | Solutions Engineer  
 
 ---
@@ -90,5 +90,5 @@ It’s generally straightforward with proper planning and execution. I'm more th
 
 Looking forward to hearing from you!
 
-Regards,
+Regards,<br/>
 Augusto Leal | Solutions Engineer  
